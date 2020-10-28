@@ -132,3 +132,9 @@ Create a new React application and connect it to your server:
 
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[jason maurer 18](https://youtu.be/lu0UMm89Xbg)
+[jason maurer 16](https://youtu.be/BdGul7Ov82s)
+[luis 31](https://youtu.be/4xcsDjPfC7Y)
